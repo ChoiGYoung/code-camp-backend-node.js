@@ -41,7 +41,7 @@ lerna-debug.log*
 .env.test.local
 .env.production.local
 .env.local
-
+backend-426115-05fca5319d31.json
 # temp directory
 .temp
 .tmp
