@@ -4,7 +4,7 @@ version: '3.7'
 services:
 
   my-backend:
-    image: asia.gcr.io/backend-426115/mybackend-nestjs:0.5
+    image: asia.gcr.io/backend-426115/mybackend-nestjs:0.8
     build:
       context: .
       dockerfile: Dockerfile.prod
